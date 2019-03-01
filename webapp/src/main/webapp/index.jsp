@@ -1,2 +1,8 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<html>
+  <body>
+    <h2> Application has been deployed succesfully via Jenkins </h2>  
+    
+  </body>
+    
+</html>
 
